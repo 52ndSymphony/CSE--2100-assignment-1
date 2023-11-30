@@ -95,7 +95,7 @@ class Books extends StatelessWidget {
                 );
               },
               icon: Icon(Icons.shopping_cart_checkout_outlined,
-                color: Colors.grey[800],
+                color: Colors.grey[850],
                 size: 22.0,
               ),
               label: Text('Buy Now',
