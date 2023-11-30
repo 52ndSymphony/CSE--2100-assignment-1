@@ -142,7 +142,7 @@ class Details extends StatelessWidget {
         color: Colors.grey[400],
         child: Padding(
 
-          padding: EdgeInsets.all(16.0),
+          padding: EdgeInsets.all(15.0),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
