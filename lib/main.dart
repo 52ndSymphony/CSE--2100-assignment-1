@@ -36,7 +36,7 @@ class HomeUI extends StatelessWidget {
         children: [
           Books('A game of Thrones', 'Goarge RR Martin', 4.2,'book1',13.5),
           Books('Angels And Demons', 'Dan Brown', 4.2,'book3',13.5),
-          Books('Maze Runner', 'James Dashner', 4.2,'book4',13.5),
+          Books('Maze Runner', 'James Dashner', 4.2,'book4',13.6),
         ],
       ),
     );
